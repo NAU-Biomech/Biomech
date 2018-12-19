@@ -1,8 +1,8 @@
 [submodule "exogui"]
 	path = Gui
-	url = git@bitbucket.org:NAU_Biomech/exogui.git
+	url = ../exogui.git
 	branch = master
 [submodule "exocode"]
 	path = Exo
-	url = git@bitbucket.org:NAU_Biomech/exocode.git
+	url = ../exocode.git
 	branch = master
