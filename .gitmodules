@@ -6,3 +6,6 @@
 	path = Exo
 	url = ../exocode.git
 	branch = master
+[submodule "HLO"]
+	path = HLO
+	url = ../hlo
