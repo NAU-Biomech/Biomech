@@ -9,3 +9,6 @@
 [submodule "HLO"]
 	path = HLO
 	url = ../hlo
+[submodule "IOS"]
+	path = IOS
+	url = https://github.com/naubiomech/IOS.git
